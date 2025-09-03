@@ -1,4 +1,4 @@
-# Coding-Standards
+# Coding Standards
 UNB CPC coding standards for collaboration.
 
 ## Naming conventions:
@@ -33,7 +33,7 @@ When writing your comments, write for your audience: the next contributor who wi
 3. Follow language specific commenting standards.
 
 ## Languages
-This are the recognised coding conventions of the langauges used by club:
+This are the recognised coding conventions of the langauges used by the club:
 - **C++** - [Google C++ style guide](https://codiepp.github.io/styleguide/cppguide.html)
 - **Java** - [Java coding standards](https://www.javaspring.net/blog/java-coding-standard/)
 - **JavaScript** - [React handbook](https://reacthandbook.dev/project-standards)
